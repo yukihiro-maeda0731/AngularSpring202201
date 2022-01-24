@@ -1,10 +1,10 @@
 package com.example.AngularSpring202201.controller;
 
+import com.example.AngularSpring202201.model.Book;
 import com.example.AngularSpring202201.repository.BookRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
-import java.awt.print.Book;
 
 @RestController
 @CrossOrigin(origins = "http://localhost:4200") //since we’re just working locally

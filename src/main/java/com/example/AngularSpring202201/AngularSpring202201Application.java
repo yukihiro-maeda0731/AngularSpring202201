@@ -7,6 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AngularSpring202201Application {
 
 	public static void main(String[] args) {
+
+
+
 		SpringApplication.run(AngularSpring202201Application.class, args);
 	}
 
